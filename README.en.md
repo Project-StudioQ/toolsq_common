@@ -13,6 +13,7 @@ This is a Blender addons for creating common developed by Project Studio Q inc.
 - Blender 2.93.3, Blender 2.93.5
 
 ## Addons
+- [Compositing Loader](https://github.com/Project-StudioQ/compositing_io)
 
 ## License
 
