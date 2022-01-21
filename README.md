@@ -14,6 +14,8 @@
 
 ## 実装機能一覧
 
+* [Compositing Loader](https://github.com/Project-StudioQ/compositing_io)
+
 ## ライセンス
 
 このBlenderアドオンは GNU Public License v2 です。
