@@ -1,0 +1,3 @@
+[submodule "compositing_io"]
+	path = compositing_io
+	url = git@github.com:Project-StudioQ/compositing_io.git
