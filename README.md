@@ -15,6 +15,7 @@
 ## 実装機能一覧
 
 * [Compositing Loader](https://github.com/Project-StudioQ/compositing_io)
+* [View Layer Loader](https://github.com/Project-StudioQ/view_layer_loader)
 
 ## ライセンス
 
