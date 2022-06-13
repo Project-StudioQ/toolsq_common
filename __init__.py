@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Tools:Q",
     "author": "studioQ",
-    "version": (1, 0, 0),
+    "version": (1, 0, 1),
     "blender": (2, 93, 3),
     "description": "Tools:Q Common",
     "warning": "",
