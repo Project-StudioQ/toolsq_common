@@ -16,6 +16,7 @@
 
 * [Compositing Loader](https://github.com/Project-StudioQ/compositing_io)
 * [View Layer Loader](https://github.com/Project-StudioQ/view_layer_loader)
+* [Repair Link Collection](https://github.com/Project-StudioQ/repair_link_collection)
 
 ## ライセンス
 
