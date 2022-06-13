@@ -4,3 +4,6 @@
 [submodule "view_layer_loader"]
 	path = view_layer_loader
 	url = https://github.com/Project-StudioQ/view_layer_loader.git
+[submodule "repair_link_collection"]
+	path = repair_link_collection
+	url = git@github.com:Project-StudioQ/repair_link_collection.git
