@@ -10,7 +10,7 @@ This is a Blender addons for creating common developed by Project Studio Q inc.
 
 ## Testing Environment
 - Windows 10 Pro
-- Blender 2.93.3, Blender 2.93.5, Blender 3.1
+- Blender 2.93.3, Blender 2.93.5, Blender 3.1, Blender 3.3
 
 ## Addons
 * [Compositing Loader](https://github.com/Project-StudioQ/compositing_io)
